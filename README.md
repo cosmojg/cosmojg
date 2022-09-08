@@ -21,5 +21,3 @@ I'm a computational neuroscientist 🧠 turned machine learning engineer 🤖 wi
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=cosmojg&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight#gh-dark-mode-only" alt="Cosmo's Language Stats" />
 </a>
 </div>
-
-</br>
