@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Cosmo
 
-I'm a computational neuroscientist 🧠 turned machine learning engineer 🤖 with a passion for free and open-source software 🐧.
+I'm a computational neuroscientist 🧠 turned machine learning engineer 🤖 with a passion for free and open-source software 🐧
 
 <!-- Light Mode -->
 <div align="center"> 
